@@ -1,2 +1,12 @@
 # sandhya1-demo
-This is my first Git Repository
+
+Python practice repository created  for preparation.
+
+Contents:
+- two_sum.py – Hash map based array problem
+- binary_search.py – Searching algorithm
+- palindrome.py – String logic problem
+
+Language: Python  
+Focus: Problem solving & fundamentals
+
