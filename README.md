@@ -7,6 +7,8 @@ Contents:
 - binary_search.py – Searching algorithm
 - palindrome.py – String logic problem
 
+
 Language: Python  
 Focus: Problem solving & fundamentals
 
+Additional: Basic SQL queries for interview practice
