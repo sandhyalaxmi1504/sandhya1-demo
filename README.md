@@ -6,6 +6,8 @@ Contents:
 - two_sum.py – Hash map based array problem
 - binary_search.py – Searching algorithm
 - palindrome.py – String logic problem
+- longest_subarray_sum.py – Prefix sum & hashing based problem
+
 
 
 Language: Python  
